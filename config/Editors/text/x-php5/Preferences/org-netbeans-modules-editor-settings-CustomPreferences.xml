@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE editor-preferences PUBLIC "-//NetBeans//DTD Editor Preferences 1.0//EN" "http://www.netbeans.org/dtds/EditorPreferences-1_0.dtd">
+<editor-preferences>
+    <entry javaType="java.lang.Boolean" name="alignMultilineCallArgs" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="alignMultilineMethodParams" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="blankLinesAfterClass" xml:space="preserve">
+        <value><![CDATA[0]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="blankLinesAfterFunction" xml:space="preserve">
+        <value><![CDATA[0]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="blankLinesBeforeField" xml:space="preserve">
+        <value><![CDATA[0]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="blankLinesBeforeNamespace" xml:space="preserve">
+        <value><![CDATA[0]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="classDeclBracePlacement" xml:space="preserve">
+        <value><![CDATA[NEW_LINE]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="continuationIndentSize" xml:space="preserve">
+        <value><![CDATA[4]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="methodDeclBracePlacement" xml:space="preserve">
+        <value><![CDATA[NEW_LINE]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="placeNewLineAfterModifiers" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="spaceAfterSemi" xml:space="preserve">
+        <value><![CDATA[false]]></value>
+    </entry>
+    <entry javaType="java.lang.Integer" name="tab-size" xml:space="preserve">
+        <value><![CDATA[4]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="wrapArrayInit" xml:space="preserve">
+        <value><![CDATA[WRAP_IF_LONG]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="wrapChainedMethodCalls" xml:space="preserve">
+        <value><![CDATA[WRAP_IF_LONG]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="wrapDoWhileStatement" xml:space="preserve">
+        <value><![CDATA[WRAP_IF_LONG]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="wrapExtendsImplementsKeyword" xml:space="preserve">
+        <value><![CDATA[WRAP_IF_LONG]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="wrapExtendsImplementsList" xml:space="preserve">
+        <value><![CDATA[WRAP_IF_LONG]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="wrapForStatement" xml:space="preserve">
+        <value><![CDATA[WRAP_IF_LONG]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="wrapIfStatement" xml:space="preserve">
+        <value><![CDATA[WRAP_IF_LONG]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="wrapMethodCallArgs" xml:space="preserve">
+        <value><![CDATA[WRAP_IF_LONG]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="wrapMethodParams" xml:space="preserve">
+        <value><![CDATA[WRAP_IF_LONG]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="wrapWhileStatement" xml:space="preserve">
+        <value><![CDATA[WRAP_IF_LONG]]></value>
+    </entry>
+</editor-preferences>

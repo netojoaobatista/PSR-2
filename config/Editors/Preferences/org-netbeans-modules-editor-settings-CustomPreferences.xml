@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE editor-preferences PUBLIC "-//NetBeans//DTD Editor Preferences 1.0//EN" "http://www.netbeans.org/dtds/EditorPreferences-1_0.dtd">
+<editor-preferences>
+    <entry javaType="java.lang.String" name="code-template-expand-key" xml:space="preserve">
+        <value><![CDATA[TAB]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="code-template-on-expand-action" xml:space="preserve">
+        <value><![CDATA[FORMAT]]></value>
+    </entry>
+</editor-preferences>
